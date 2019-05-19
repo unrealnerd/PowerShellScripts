@@ -1,4 +1,4 @@
-#Some useful powershell scripts
+# Some useful powershell scripts
 
 ## HashOff
 This script gets the list of paths from the csv and generates the hash for the all files, then groups them based on the hash
